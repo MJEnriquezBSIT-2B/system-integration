@@ -1,0 +1,32 @@
+/* Add this CSS to your existing styles or create a new CSS file */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+/* Optional: Add some styling to buttons */
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+}
