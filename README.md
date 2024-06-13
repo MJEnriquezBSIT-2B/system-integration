@@ -1,1 +1,1 @@
-# nagsavenako-pwedenamomagdeleteyawamo
+#
